@@ -1,0 +1,20 @@
+{
+  "name": "using-express",
+  "version": "1.0.0",
+  "description": "Learning Express exercises",
+  "main": "server-1.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.2",
+    "express-session": "^1.15.2",
+    "morgan": "^1.8.1",
+    "session-file-store": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joseph Barrowcliffe",
+  "license": "ISC"
+}
